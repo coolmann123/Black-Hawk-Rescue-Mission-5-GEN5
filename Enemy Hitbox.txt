@@ -1,1 +1,6 @@
-
+LJК    7  % >  TЂ7  TЂ4 7' ' ' >: 4 7% >: 	+  :
++  :G   АOutlineColorFillColorParentHighlight
+InstancenewVector3	Size	Head	Name
+MeshPartIsA   +    >G  АД 	 
+ 4   7  ' '  '  > 1 4 4 7 7> = DЂ  >BNы4 77 71	 >0  ЂG   ConnectDescendantAddedGetDescendantsWorkspace	game
+pairs newColor3 
